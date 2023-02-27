@@ -35,3 +35,53 @@ body {
     text-align: justify;
     padding-bottom:10px;
 }
+
+#art2 {
+    border-left:5px orange solid;
+    border-radius: 5px;
+    margin-left:5%;
+    margin-right: 5%;
+    box-shadow: 5px 5px 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+.sec123 {
+    width:30%;
+    box-shadow: 5px 5px 10px 10px rgba(0, 0, 0, 0.2);
+    border-bottom:5px orange solid;
+    border-radius:10px;
+    margin:10px;
+}
+
+.sec456 {
+    width:30%;
+    box-shadow: 5px 5px 10px 10px rgba(0, 0, 0, 0.2);
+    border-bottom:5px orange solid;
+    border-radius:10px;
+    margin:25px;
+}
+
+.divi1 {
+    display:flex;
+    text-align: center;
+    margin:2%;
+}
+
+.divi2 {
+    display:flex;
+    text-align: center;
+    margin:2%;
+}
+
+#justificar {
+    text-align:justify;
+    margin:10px;
+}
+
+#img2 {
+    text-align:center;
+    border:4px orange solid;
+    width:90%;
+    margin:5%;
+    box-shadow: 5px 5px 10px 10px rgba(0, 0, 0, 0.2);
+    margin-top:10px;
+}
