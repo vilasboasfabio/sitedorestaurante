@@ -30,6 +30,7 @@ border-radius: 3px;
     text-align: center;
     margin-bottom: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top:25px;
 }
 body{
     background-color: beige;
@@ -49,7 +50,9 @@ body{
 }
 
 #fram1 {
-    margin-bottom:-6px;
+    margin-bottom:-10px;
 }
 
-
+#ifhea {
+    height:110px;
+}
