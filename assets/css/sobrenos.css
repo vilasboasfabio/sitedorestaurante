@@ -1,0 +1,37 @@
+body {
+    background-color:beige;
+}
+
+#titu1 {
+    text-align:center;
+    font-size:40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#img1 {
+    text-align:center;
+    border:4px orange solid;
+    width:90%;
+    margin-left:5%;
+    box-shadow: 5px 5px 10px 10px rgba(0, 0, 0, 0.2);
+    margin-top:10px;
+}
+
+#art1 {
+    border-left:5px orange solid;
+    border-radius: 5px;
+    margin-left:5%;
+    margin-right: 5%;
+    box-shadow: 5px 5px 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+#titu2 {
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#text1 {
+    margin: 1%;
+    text-align: justify;
+    padding-bottom:10px;
+}
