@@ -15,10 +15,11 @@ article {
 section {
     display: flex;
     background-color: beige;
-    box-shadow: 30px grey;
+    box-shadow: 30px grey ;
     margin-top: 10%;
-    background-color: rgb(110, 60, 60);
+    background-color: rgb(157, 49, 49);
     box-shadow: 10px 10px grey;
+    color: aliceblue;
 }
 #hr1 {
     margin-top: 25px;
