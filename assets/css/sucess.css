@@ -1,6 +1,9 @@
 body{
     background-color: beige;
     text-align: center;
+    margin-top: auto;
+    margin:0;
+    padding: 0;
 }
 #voltarhome{
     background-color:green;
@@ -14,4 +17,7 @@ h1{
 }
 #voltarhome:hover{
     background-color: greenyellow;
+}
+#iframe2{
+    margin-top: 14%;
 }
