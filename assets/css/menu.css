@@ -1,0 +1,54 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12;
+    margin: 0%;
+}
+article {
+    width: 80%;
+    margin: auto;
+    border-left: 15px double green;
+    margin-top: 20px;
+   
+
+}
+section {
+    display: flex;
+    background-color: beige;
+    box-shadow: 30px grey;
+    margin-top: 10%;
+    background-color: rgb(110, 60, 60);
+    box-shadow: 3px 3px grey;
+}
+#hr1 {
+    margin-top: 25px;
+    border: 10px double green;
+}
+
+#p1 {
+    width: 50%;
+    margin-left: 100px;
+}
+#p2 {
+   width: 50%; 
+}
+#ar1 {
+    display: flex;
+    background-color: rgb(206, 87, 87);
+    box-shadow: 15px 20px grey;
+    border: outset green 15px;
+
+}
+#p00 {
+    width: 50%;
+    margin-left: 80px;
+}
+#paaa {
+    width: 50%;
+}
+p {
+    width: 33%;
+}
+footer {
+    margin-top: 30px;
+}
