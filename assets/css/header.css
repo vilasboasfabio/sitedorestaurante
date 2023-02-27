@@ -13,7 +13,6 @@ header {
 .container {
     width: 90%;
     max-width: 1200px;
-    magin: auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -43,7 +42,6 @@ nav a:hover {
     border-radius: 5px;
 }
 #img {
-    align:middle;
     margin-top: 15px;
 }
 
@@ -62,4 +60,8 @@ nav a:active {
 	100% {
 		transform: rotate(360deg);
 	}
+}
+
+#img1:hover {
+    animation: loading 2s linear infinite;
 }
