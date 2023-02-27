@@ -42,8 +42,9 @@ nav a:hover {
     background-color: rgba(0, 20, 40, 0.36);
     border-radius: 5px;
 }
-#img1 {
+#img {
     align:middle;
+    margin-top: 15px;
 }
 
 nav a:active {
