@@ -1,0 +1,15 @@
+footer {
+    background-color: green;
+    color: white;
+    text-align: center;
+    margin: 0%;
+    bottom:0%;
+}
+#img{
+    margin-top: 10px;
+}
+
+body {
+    bottom:0%;
+    margin:0%;
+}
