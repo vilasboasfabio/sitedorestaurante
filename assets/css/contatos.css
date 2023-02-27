@@ -1,0 +1,48 @@
+form{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 40%;
+    font-family: Arial, Helvetica, sans-serif
+}
+#enviar{
+    background-color: green;
+    margin: auto;
+border-radius: 3px;
+    border: none;
+    width: 20%;
+
+}
+#enviar:hover{
+    background-color: greenyellow;
+}
+#caixatext2{
+    height: 50px;
+    
+}
+.caixadetext{
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#h1{
+    font-size: 30px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: beige;
+}
+
+.caixadetext {
+    border: 5px green double;
+    margin-bottom: 20px;
+
+}
+.caixadetext:focus {
+    border: 5px gray double;
+    outline: 0;
+}
+
+
