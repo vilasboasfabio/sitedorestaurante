@@ -52,7 +52,7 @@ nav a:active {
 }
 #img1{
     margin-left: 600px;
-    animation: loading 2s linear infinite;
+    animation: loading 2s linear;
     }
 
 @keyframes loading {
