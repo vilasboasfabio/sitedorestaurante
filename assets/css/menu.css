@@ -12,6 +12,7 @@ article {
     margin-top: 20px;
     box-shadow: 5px 5px 10px 10px rgba(100, 100, 100, 2);
     font-size: 15px;
+    margin-top: 50px;
    
 
 }
@@ -19,7 +20,7 @@ section {
     display: flex;
     background-color: beige;
     box-shadow: 30px grey ;
-    margin-top: 10%;
+    
    
     
     
@@ -36,7 +37,7 @@ section {
 }
 #ar1 {
     display: flex;
-    background-color: rgb(206, 87, 87);
+    background-color: rgb(157, 49, 49);
     box-shadow: 5px 5px 10px 10px rgba(100, 100, 100, 2);
    
 
@@ -52,6 +53,8 @@ p {
     width: 33%;
     background-color: rgb(157, 49, 49);
     margin-right: 10px;
+    margin-top: 0;
+   
 }
 footer {
     margin-top: 30px;
@@ -72,4 +75,7 @@ footer {
 }
 #ar11 {
     text-align: center;
+}
+#pu {
+    margin: auto;
 }
