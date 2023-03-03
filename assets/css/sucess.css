@@ -2,8 +2,8 @@ body{
     background-color: beige;
     text-align: center;
     margin-top: auto;
-    margin:0;
-    padding: 0;
+    margin:auto;
+    padding: auto;
     
 }
 #voltarhome{
@@ -15,6 +15,7 @@ body{
 h1{
     text-align: center;
     font-family: Verdana;
+    margin-top: 10px;
 }
 #voltarhome:hover{
     background-color: greenyellow;
