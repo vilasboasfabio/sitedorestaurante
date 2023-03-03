@@ -9,10 +9,11 @@ body{
 }
 #voltarhome{
     background-color:red;
-    width: 10%;
     border-radius: 3px;
     border:none;
     color: white;
+    width: 10%;
+    height: 30%;
 }
 h1{
     text-align: center;
@@ -20,11 +21,11 @@ h1{
     margin-top: 33px;
 }
 #voltarhome:hover{
-    background-color: green;
+    background-color: rgba(70, 154, 77, 0.36);
+
 }
 #iframe2{
     margin-bottom: -15px;
-
 }
 
 #ifhea {
