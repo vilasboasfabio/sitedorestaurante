@@ -19,7 +19,7 @@ body {
 
 #art1 {
     border-left:5px orange solid;
-    border-radius: 5px;
+    border-radius: 1%;
     margin-left:5%;
     margin-right: 5%;
     box-shadow: 5px 5px 10px 10px rgba(0, 0, 0, 0.2);
@@ -38,7 +38,7 @@ body {
 
 #art2 {
     border-left:5px orange solid;
-    border-radius: 5px;
+    border-radius: 1%;
     margin-left:5%;
     margin-right: 5%;
     box-shadow: 5px 5px 10px 10px rgba(0, 0, 0, 0.2);
@@ -58,7 +58,7 @@ body {
 
 #justificar {
     text-align:justify;
-    margin:10px;
+    margin:4%;
 }
 
 #img2 {
@@ -66,7 +66,7 @@ body {
     border:4px orange solid;
     width:90%;
     box-shadow: 2px 2px 5px 5px rgba(0, 0, 0, 0.2);
-    margin-top:10px;
+    margin-top:1%;
 }
 
 body {
@@ -86,8 +86,8 @@ a {
     width:30%;
     box-shadow: 5px 5px 10px 10px rgba(0, 0, 0, 0.2);
     border-top:5px orange solid;
-    border-radius:10px;
-    margin:25px;
+    border-radius:1%;
+    margin:2.5%;
     font-style: none;
     text-decoration: none;
     color:black;
@@ -97,8 +97,8 @@ a:hover {
     width:30%;
     box-shadow: 1000px 1000px 2000px 2000px rgba(0, 0, 0, 0.2);
     border-top:5px orange solid;
-    border-radius:10px;
-    margin:25px;
+    border-radius:1%;
+    margin:2.5%;
     font-style: none;
     text-decoration: none;
     color:black;
