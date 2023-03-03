@@ -61,6 +61,10 @@ footer {
     margin-top: 0%;
 }
 
-#fram1 {
+#ifhea {
         height:100px;
+}
+
+#ifram1 {
+    margin-bottom:-5px;
 }
