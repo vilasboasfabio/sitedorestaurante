@@ -85,7 +85,7 @@ body {
 a {
     width:30%;
     box-shadow: 5px 5px 10px 10px rgba(0, 0, 0, 0.2);
-    border-bottom:5px orange solid;
+    border-top:5px orange solid;
     border-radius:10px;
     margin:25px;
     font-style: none;
