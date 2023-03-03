@@ -14,6 +14,8 @@ article {
     font-size: 15px;
     margin-top: 50px;
    
+   
+   
 
 }
 section {
@@ -22,6 +24,7 @@ section {
     box-shadow: 30px grey ;
     text-align: center;
     color: aliceblue;
+   
 }
 
 
@@ -61,7 +64,7 @@ footer {
 }
 #p11 {
     margin-top: 0px;
-    text-align: justify;
+    text-align: center;
     margin: auto;
 }
 
@@ -76,8 +79,11 @@ footer {
     text-align: center;
 }
 #ar11 {
-    text-align: center;
+   text-align: center;
 }
 #pu {
+    margin: auto;
+}
+img {
     margin: auto;
 }
