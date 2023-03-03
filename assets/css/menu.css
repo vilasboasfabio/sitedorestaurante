@@ -20,14 +20,12 @@ section {
     background-color: beige;
     box-shadow: 30px grey ;
     margin-top: 10%;
-    background-color: rgb(157, 49, 49);
+   
+    
     
     color: aliceblue;
 }
-#hr1 {
-    margin-top: 25px;
-    border: 10px double green;
-}
+
 
 #p1 {
     width: 50%;
@@ -40,7 +38,7 @@ section {
     display: flex;
     background-color: rgb(206, 87, 87);
     box-shadow: 5px 5px 10px 10px rgba(100, 100, 100, 2);
-    border: outset green 15px;
+   
 
 }
 #p00 {
@@ -52,19 +50,26 @@ section {
 }
 p {
     width: 33%;
-    margin: 15px;
+    background-color: rgb(157, 49, 49);
+    margin-right: 10px;
 }
 footer {
     margin-top: 30px;
 }
 #p11 {
-    margin-top: 0%;
+    margin-top: 0px;
 }
 
 #ifhea {
-        height:100px;
+        height:110px;
 }
 
 #ifram1 {
     margin-bottom:-5px;
+}
+#ar00 {
+    text-align: center;
+}
+#ar11 {
+    text-align: center;
 }
