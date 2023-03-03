@@ -13,6 +13,7 @@ form {
     border: none;
     width: 20%;
     color: white;
+    height: 15px;
 
 }
 
@@ -66,7 +67,4 @@ body {
     height: 110px;
     margin: 0;
     padding: 0;
-}
-body{
-    height: 100%;
 }
