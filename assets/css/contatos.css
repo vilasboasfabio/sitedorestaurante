@@ -47,7 +47,8 @@ body {
 }
 
 .caixadetext {
-    border: 5px green double;
+    border: 3px green ridge;
+    
     margin-bottom: 20px;
 
 }
