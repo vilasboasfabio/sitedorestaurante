@@ -64,6 +64,8 @@ body {
 
 #fram1 {
     margin-bottom: -20px;
+    position: fixed;
+    bottom: 0%;
 }
 
 #ifhea {
