@@ -9,6 +9,7 @@ form {
 #enviar {
     background-color: red;
     margin: auto;
+    margin-bottom: 5px;
     border-radius: 3px;
     border: none;
     width: 20%;
