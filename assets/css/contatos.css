@@ -9,16 +9,18 @@ form {
 #enviar {
     background-color: red;
     margin: auto;
+    margin-bottom: 5px;
     border-radius: 3px;
     border: none;
     width: 20%;
     color: white;
-    height: 15px;
+    height: 30px;
+    
 
 }
 
 #enviar:hover {
-    background-color:green;
+    background-color: rgba(70,154,77,0.36);
 }
 
 #caixatext2 {
@@ -60,7 +62,7 @@ body {
 }
 
 #fram1 {
-    margin-bottom: -10px;
+    margin-bottom: -20px;
 }
 
 #ifhea {
