@@ -91,6 +91,7 @@ a {
     font-style: none;
     text-decoration: none;
     color:black;
+    transition: width 1s;
 }
 
 a:hover {
@@ -102,7 +103,7 @@ a:hover {
     font-style: none;
     text-decoration: none;
     color:black;
-    
+    width:100%;
 }
 
 body {
