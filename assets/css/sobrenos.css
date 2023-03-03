@@ -44,22 +44,6 @@ body {
     box-shadow: 5px 5px 10px 10px rgba(0, 0, 0, 0.2);
 }
 
-.sec123 {
-    width:30%;
-    box-shadow: 5px 5px 10px 10px rgba(0, 0, 0, 0.2);
-    border-bottom:5px orange solid;
-    border-radius:10px;
-    margin:25px;
-}
-
-.sec456 {
-    width:30%;
-    box-shadow: 5px 5px 10px 10px rgba(0, 0, 0, 0.2);
-    border-bottom:5px orange solid;
-    border-radius:10px;
-    margin:25px;
-}
-
 .divi1 {
     display:flex;
     text-align: center;
@@ -96,4 +80,15 @@ body {
 
 #ifhea {
     height:110px;
+}
+
+a {
+    width:30%;
+    box-shadow: 5px 5px 10px 10px rgba(0, 0, 0, 0.2);
+    border-bottom:5px orange solid;
+    border-radius:10px;
+    margin:25px;
+    font-style: none;
+    text-decoration: none;
+    color:black;
 }
