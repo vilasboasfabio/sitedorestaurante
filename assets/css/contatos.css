@@ -7,16 +7,17 @@ form {
 }
 
 #enviar {
-    background-color: green;
+    background-color: red;
     margin: auto;
     border-radius: 3px;
     border: none;
     width: 20%;
+    color: white;
 
 }
 
 #enviar:hover {
-    background-color: greenyellow;
+    background-color:green;
 }
 
 #caixatext2 {
@@ -65,4 +66,7 @@ body {
     height: 110px;
     margin: 0;
     padding: 0;
+}
+body{
+    height: 100%;
 }
