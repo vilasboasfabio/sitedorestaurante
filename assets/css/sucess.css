@@ -5,6 +5,7 @@ body{
     margin:auto;    
     padding: auto;
     
+    
 }
 #voltarhome{
     background-color:red;
@@ -16,17 +17,16 @@ body{
 h1{
     text-align: center;
     font-family: Verdana;
-    margin-top: 10px;
+    margin-top: 33px;
 }
 #voltarhome:hover{
     background-color: green;
 }
 #iframe2{
     margin-top: 9%;
-    margin-bottom: auto;
+    margin-bottom: -15px;
     margin: 0;
     padding: auto;
-    
 }
 
 #ifhea {
