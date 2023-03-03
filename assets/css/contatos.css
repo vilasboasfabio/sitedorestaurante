@@ -54,7 +54,7 @@ body {
 }
 
 .caixadetext:focus {
-    border: 5px gray double;
+    border: 3px gray ridge;
     outline: 0;
 }
 
