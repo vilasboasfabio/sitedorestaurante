@@ -13,7 +13,8 @@ form {
     border: none;
     width: 20%;
     color: white;
-    height: 15px;
+    height: 30px;
+    
 
 }
 
@@ -60,7 +61,7 @@ body {
 }
 
 #fram1 {
-    margin-bottom: -10px;
+    margin-bottom: -20px;
 }
 
 #ifhea {
