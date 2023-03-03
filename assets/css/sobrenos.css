@@ -93,6 +93,18 @@ a {
     color:black;
 }
 
+a:hover {
+    width:30%;
+    box-shadow: 1000px 1000px 2000px 2000px rgba(0, 0, 0, 0.2);
+    border-top:5px orange solid;
+    border-radius:10px;
+    margin:25px;
+    font-style: none;
+    text-decoration: none;
+    color:black;
+    
+}
+
 body {
     margin:0;
     padding: 0;
