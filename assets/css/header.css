@@ -30,10 +30,12 @@ nav a {
     text-decoration: none;
     text-transform: uppercase;
     padding: 10px;
+    border-radius:5px;
+    transition: background-color 0.5s steps(10);
 }
 
 nav a:hover {
-    color: rgb(70, 154, 77);
+    color:rgb(70, 154, 77);
     background-color: rgba(0, 20, 40, 0.36);
     border-radius: 5px;
 }
