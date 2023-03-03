@@ -1,5 +1,5 @@
 footer {
-    background-color: green;
+    background-color: rgb(255,0,0);
     color: white;
     text-align: center;
     margin: 0%;
@@ -7,8 +7,13 @@ footer {
     position:fixed;
     width:100%;
 }
+#sla1 {
+    margin-top: 3px;
+}
 #img{
-    margin-top: 18px;
+    margin-top: 7px;
+    height: 50px;
+    width: 50px;
 }
 
 body {
