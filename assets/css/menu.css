@@ -91,3 +91,15 @@ img {
     margin: auto;
    
 }
+@media (max-width: 600px){
+    section{
+        display:flex;
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+        
+    }
+    #ar1{
+        width: 70%;
+    }
+}
