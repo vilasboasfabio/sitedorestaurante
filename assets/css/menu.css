@@ -63,11 +63,13 @@ p {
 footer {
     margin-top: 30px;
 }
+
+/* essa é a estilização dos paragrafos descritivos referentes às imagens dos produtos
 #p11 {
     margin-top: 0px;
     text-align: center;
     margin: auto;
-}
+} */
 
 #ifhea {
         height:110px;
